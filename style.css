@@ -68,8 +68,7 @@
 }
 
 .clock span{
-    /* margin-right: 5px;
-    background-color: gray; */
+    
     font-size: 80px;
     width: 100px;
     display: inline-block;
